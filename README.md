@@ -104,6 +104,14 @@ AI-Based Productivity & Task Management Platform
 <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20IntelliTask-success?style=for-the-badge"/>
 </a>
 
+### 📋 AI Startup Idea Validator
+
+Stop building what nobody wants. Get a complete business roadmap, competitor SWOT analysis, financial models, and investor-ready pitch decks instantly.
+
+<a href="[https://intelli-task001.vercel.app/](https://ai-idea-validator002.vercel.app/)">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20AI Startup Idea Validator-success?style=for-the-badge"/>
+</a>
+
 ## 💻 Coding Profiles
 
 🔹 LeetCode: https://leetcode.com/u/vdeepak2589/
