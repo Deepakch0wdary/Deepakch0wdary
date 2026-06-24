@@ -105,39 +105,7 @@ AI-Based Productivity & Task Management Platform
 </a>
 
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Deepakch0wdary&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakch0wdary&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepakch0wdary&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Deepakch0wdary&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepakch0wdary&theme=tokyo-night"/>
-</p>
-
----
 
 ## 💻 Coding Profiles
 
